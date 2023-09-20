@@ -6,11 +6,7 @@ The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
-<<<<<<< HEAD
 - The project is implemented in Java 20.
-=======
-- The project is implemented in Java 20.
->>>>>>> branch-A
 - The project can be built using [Maven](https://maven.apache.org/).
 - [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
 
